@@ -1,0 +1,6 @@
+{
+    "workbench.editorAssociations": {
+        "code runner": "default"
+    },
+    "python.REPL.enableREPLSmartSend": false
+}
