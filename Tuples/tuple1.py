@@ -16,7 +16,7 @@
 # tup = (5, 'welcome', 7, 'Geeks')
 # print(tup)
 
-# # Creatingt a tuple with nested tuples
+# # Creating a tuple with nested tuples
 # tup1 = (0, 1, 2, 3)
 # tup2 = ("python", "geeks")
 # tup3 = (tup1, tup2)
