@@ -2,7 +2,7 @@
 
 
 # if we want to update tuple so tuples are immmutable 
-# therefor firstly we need to convert tuple into list thebn
+# therefor firstly we need to convert tuple into list the
 # convert list to tuple
 
 # countries = ("Spain", "Italy", "India", "England", "Germany")
